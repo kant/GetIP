@@ -24,4 +24,4 @@ try:
   print("See you later")
 
 except socket.gaierror:
-  print("The website does not exits!")
+  print("The website does not exists!") 
